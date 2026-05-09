@@ -1,7 +1,7 @@
 # Font Installer (shortcut)
 Shortcut for installing TTF and OTF fonts on iOS
 
-[Release 20260504](https://www.icloud.com/shortcuts/b5880f627b4c444c84c50624a348d9cb)
+[Release 20260509](https://www.icloud.com/shortcuts/0d0fc5195e4b4ef48887c283d8494973)
 
 Notes
 - Custom installed fonts are only available in a few apps, like Apple Pages and Microsoft Word
